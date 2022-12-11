@@ -3,7 +3,7 @@ import turtle
 screen=turtle.Screen() 
 my_turtle=turtle.Turtle() 
  
-def triangle(x,y)
+def triangle(x,y):
    
     my_turtle.penup()
     my_turtle.goto(x,y) # x e y são as coordenadas do triângulo
